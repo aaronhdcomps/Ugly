@@ -1,0 +1,27 @@
+body {
+    background-color: #f6d067;
+}
+h1 {
+    font-family: "Comic Sans MS";
+    color: red;
+    text-decoration: underline;
+}
+
+p {
+    font-family: "Curlz MT";
+    color: #6aff00;
+}
+
+.par1 {
+    font-weight: bold;
+}
+.welcomepic img{
+    border-style: solid;
+    border-width: 10px;
+    border-color: #fb00ff;
+    max-width: 200px;
+    height: auto;
+}
+#copyright {
+    font-size: 75%;
+}
